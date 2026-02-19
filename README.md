@@ -1,4 +1,4 @@
-# 🐚 Mini Shell – Linux Internals Project
+#  Mini Shell – Linux Internals Project
 
 ## 📌 Project Overview
 
